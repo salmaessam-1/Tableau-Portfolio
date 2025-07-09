@@ -28,6 +28,7 @@ Sales performance analysis for Adidas, highlighting top products, regional sales
 ![Product](https://github.com/user-attachments/assets/a1d687db-b2be-4afc-86b3-faa88ec620df)
 ![Region](https://github.com/user-attachments/assets/35497aee-f653-4599-8db6-44633161a5ab)
 
+**link** https://public.tableau.com/views/ADIDASDASHBOARD_17476798976960/Overview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ---
 
 ### 📁 [Bank Customers](./Bank_Customers)
@@ -44,6 +45,7 @@ Comprehensive sales dashboard covering total sales, top regions, and trends over
 
 ![DashDay2](https://github.com/user-attachments/assets/7b80817a-f9ae-462f-a5e8-975972b55885)
 
+**link** https://public.tableau.com/views/SalesDashboard_17476789825740/SalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ---
 
 ## 📫 **Contact**
