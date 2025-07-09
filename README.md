@@ -48,6 +48,15 @@ Comprehensive sales dashboard covering total sales, top regions, and trends over
 **Dashboard link:** https://public.tableau.com/views/SalesDashboard_17476789825740/SalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ---
 
+### 🛠️ Tools & Technologies
+
+- Tableau Desktop & Tableau Public  
+- Excel, CSV Files  
+- Tableau Calculated Fields, Filters, Parameters  
+- Dashboard Interactions & Storyboards
+- 
+---
+
 ## 📫 **Contact**
 
 Feel free to connect with me:  
